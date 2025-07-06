@@ -62,3 +62,50 @@
 </td>
 </tr>
 </table>
+
+# 📊 GitHub Analytics Dashboard
+
+<div align="center">
+
+## 🧋 Activity & Performance Metrics
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=nastixy&theme=github_dark&hide_border=true&date_format=j%20M%5B%20Y%5D&border_radius=15&ring=82617e&fire=82617e&currStreakLabel=82617e" alt="GitHub Streak Stats" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+<table width="100%">
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nastixy&show_icons=true&theme=github_dark&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&custom_title=Nastixy's%20GitHub%20Analytics" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nastixy&show_icons=true&layout=compact&theme=github_dark&hide_border=true&border_radius=15&custom_title=Tech%20Stack%20Distribution" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+## 🏆 GitHub Trophy Collection
+<img src="https://github-profile-trophy.vercel.app/?username=nastixy&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
+
+</div>
+
+<div align="center">
+
+## 📊 Detailed Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nastixy&bg_color=0d1117&color=ffffff&line=82617e&point=ffffff&area=true&hide_border=true&radius=15" alt="GitHub Activity Graph" />
+
+</div>
+
+---
