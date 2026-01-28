@@ -13,7 +13,7 @@
 </div>
 
 # 🌺 About Me
- Hey, I'm Nastixy, a 20-year-old Computer Science student at ETH.
+ Hey, I'm Anastasia, a 20-year-old Computer Science student at ETH.
 
  #### 💗 Currently Listening on Spotify
 <div align="center">
