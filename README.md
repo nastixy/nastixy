@@ -13,7 +13,7 @@
 </div>
 
 # 🌺 About Me
- Hey, I'm Nastixy, a 19-year-old soon starting my Bachelor's in Computer Science. In my free time, I enjoy gaming, reading, and going out with friends.
+ Hey, I'm Nastixy, a 20-year-old Computer Science student at ETH.
 
  #### 💗 Currently Listening on Spotify
 <div align="center">
